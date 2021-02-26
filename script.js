@@ -5,3 +5,4 @@ const deck = new Deck();
 console.log('YO');
 console.log(deck.cards);
 console.log('YO');
+console.log("ok");
